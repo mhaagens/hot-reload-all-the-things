@@ -31,6 +31,9 @@ module.exports = {
     }),
   ],
   devServer: {
+    headers: {
+        'Access-Control-Allow-Origin': '*'
+    },
     host: "localhost",
     port: 3001,
     historyApiFallback: true,
