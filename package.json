@@ -11,6 +11,7 @@
 		"babel-preset-react": "^6.23.0",
 		"express": "^4.14.1",
 		"npm-run-all": "^4.0.2",
+		"rapscallion": "^2.1.7",
 		"react": "^15.4.2",
 		"react-dom": "^15.4.2",
 		"react-hot-loader": "next",
